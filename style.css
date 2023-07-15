@@ -3,6 +3,13 @@ body {
 }
 
 p {
+  /* color/ size */
   color: #ffffff;
+  font-size: 18px;
+  
+  /* position */
+  margin-left: 5%;
+  margin-right: 5%;
+  margin-top: 5%;
 }
   
