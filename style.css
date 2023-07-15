@@ -6,10 +6,10 @@ p {
   /* color/ size */
   color: #ffffff;
   font-size: 18px;
-  
-  /* position */
-  margin-left: 5%;
-  margin-right: 5%;
-  margin-top: 5%;
 }
-  
+
+.navbar {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
