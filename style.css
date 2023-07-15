@@ -12,4 +12,19 @@ p {
   list-style-type: none;
   margin: 0;
   padding: 0;
+  overflow: hidden;
+  background-color: #b5b5b5;
+}
+
+.navbarStyle {
+  float: left;
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+.navbarStyle:hover {
+  background-color: #6b6b6b;
 }
