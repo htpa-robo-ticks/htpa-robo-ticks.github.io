@@ -39,11 +39,5 @@ p {
   margin-right: auto;
   width: 35%;
   height: 28%;
-}
-
-.whiteBars {
-  position: absolute;
-  background: white;
-  width: 100%;
-  height: 28%;
+  border: 15px ridge #a3a3a3;
 }
