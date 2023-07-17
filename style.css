@@ -38,6 +38,13 @@ p {
   margin-left: auto;
   margin-right: auto;
   width: 35%;
+  height: 28%;
+}
+
+.whiteBars {
+  position: absolute;
+  width: 35%;
+  height: 28%;
   border-left: 32.5% solid #ffffff;
   border-right: 32.5% solid #ffffff;
 }
