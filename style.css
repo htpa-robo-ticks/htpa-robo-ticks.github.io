@@ -39,3 +39,8 @@ p {
   margin-right: auto;
   width: 35%;
 }
+
+.backgroundImage {
+  width: 90%;
+  opacity: 0.4;
+}
