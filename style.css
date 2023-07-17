@@ -39,5 +39,5 @@ p {
   margin-right: auto;
   width: 35%;
   height: 28%;
-  border: 15px ridge #a3a3a3;
+  border-left: 100px solid #a3a3a3;
 }
