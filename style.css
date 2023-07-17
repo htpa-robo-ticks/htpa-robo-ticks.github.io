@@ -43,4 +43,8 @@ p {
 .backgroundImage {
   width: 90%;
   opacity: 0.4;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  position: absolute;
 }
