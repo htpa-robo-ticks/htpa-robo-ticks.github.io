@@ -42,6 +42,6 @@ p {
   margin-right: auto;
   width: 35%;
   height: 28%;
-  border-left: 800px solid #a3a3a3;
-  border-right: 800px solid #a3a3a3;
+  border-left: 650px solid white;
+  border-right: 650px solid #a3a3a3;
 }
