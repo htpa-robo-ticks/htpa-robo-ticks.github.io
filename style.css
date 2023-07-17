@@ -38,13 +38,16 @@ p {
   margin-left: auto;
   margin-right: auto;
   width: 35%;
+  height: 20%;
 }
 
 .backgroundImage {
-  width: 90%;
+
   opacity: 0.4;
   display: block;
   margin-left: auto;
   margin-right: auto;
   position: absolute;
+  width: 50%;
+  height: 20%;
 }
