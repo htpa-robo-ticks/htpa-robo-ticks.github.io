@@ -42,12 +42,11 @@ p {
 }
 
 .backgroundImage {
-
   opacity: 0.4;
   display: block;
   margin-left: auto;
   margin-right: auto;
   position: absolute;
   width: 50%;
-  height: 20%;
+  height: 40%;
 }
