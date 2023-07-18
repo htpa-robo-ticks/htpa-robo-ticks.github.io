@@ -38,23 +38,13 @@ p {
   background-color:#a3a3a3;
 }
 
-.center {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 35%;
-  height: 28%;
-  border-left: 650px solid #300303;
-  border-right: 650px solid #300303;
-}
-
 /* Slideshow container */
 .slideshow-container {
   max-width: 750px;
   position: relative;
   margin: auto;
-  border-left: 25px solid white;
-  border-right: 25px solid white;
+  border-left: 25px solid #a3a3a3;
+  border-right: 25px solid #a3a3a3;
 }
 
 /* Caption text */
