@@ -53,6 +53,8 @@ p {
   max-width: 750px;
   position: relative;
   margin: auto;
+  border-left: 25px solid white;
+  border-right: 25px solid white;
 }
 
 /* Caption text */
