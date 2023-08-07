@@ -22,7 +22,7 @@ p {
 /* Slideshow container */
 .slideshow-container {
   max-width: 650px;
-  position: relative;
+  position: absolute;
   border-left: 25px solid #a3a3a3;
   border-right: 25px solid #a3a3a3;
 }
