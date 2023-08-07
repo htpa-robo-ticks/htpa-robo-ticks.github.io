@@ -16,7 +16,6 @@ p {
 .slideshow-container {
   max-width: 750px;
   position: left;
-  margin: auto;
   border-left: 25px solid #a3a3a3;
   border-right: 25px solid #a3a3a3;
 }
