@@ -12,6 +12,13 @@ p {
   color: #ffffff;
   font-size: 18px;
 }
+
+.textRight {
+  position: absolute;
+  text-align: end;
+  margin-left: 50%;
+  margin-right: 2%;
+}
 /* Slideshow container */
 .slideshow-container {
   max-width: 750px;
