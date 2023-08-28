@@ -12,6 +12,11 @@ p {
   color: #ffffff;
   font-size: 18px;
 }
+li {
+  /* color/ size */
+  color: #ffffff;
+  font-size: 18px;
+}
 
 .textRight {
   position: absolute;
