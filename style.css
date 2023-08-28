@@ -15,7 +15,6 @@ p {
 
 .textRight {
   position: absolute;
-  text-align: end;
   margin-left: 50%;
   margin-right: 2%;
 }
